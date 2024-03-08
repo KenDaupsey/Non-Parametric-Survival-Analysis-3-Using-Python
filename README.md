@@ -1,2 +1,4 @@
 # Non-Parametric-Survival-Analysis-3-Using-Python
-This project implements both the Kaplan Meier Estimator  and Stratified Kaplan-Meier Analysis with Log-Rank Test Using Python
+
+Non-Parametric Survival Analysis 3 Using Python
+This project employs the Kaplan Meier estimator and stratified Kaplan-Meier analysis with the log-rank test to perform non-parametric survival analysis using Python. Special thanks to the owners of The dataset utilized for this analysis. After importing necessary libraries and conducting exploratory data analysis (EDA), the Kaplan-Meier estimator is utilized to plot the survival curve, visualizing the probability of survival over time. Additionally, stratified Kaplan-Meier analysis is performed based on the 'female' variable, comparing survival curves across different categories. Finally, the log-rank test is executed to assess significant differences in survival between groups. This project provides valuable insights into survival outcomes and factors influencing them, essential in medical and clinical research settings.
